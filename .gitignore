@@ -1,0 +1,5 @@
+*.o
+xsection
+mesher
+data/
+*.sw?
