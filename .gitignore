@@ -3,3 +3,4 @@ xsection
 mesher
 data/
 *.sw?
+out.dat
